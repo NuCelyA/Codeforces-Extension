@@ -1,0 +1,28 @@
+body{
+    background: #333 !important;
+    color: #aaa !important;
+}
+#body{
+
+}
+.roundbox {
+    background: #aaa !important;
+}
+#pageContent div {
+    color: #aaa !important;
+}
+a[class="user admin"] {
+    color: #ccc !important;
+}
+.roundbox-lt,
+.roundbox-rt,
+.roundbox-lb,
+.roundbox-rb{
+    background: none !important;
+}
+#header .lang-chooser a {
+    color: #eee !important ;
+}
+img {
+    filter: grayscale(1) !important;
+}
